@@ -1,0 +1,19 @@
+{
+  "name": "tradelab-primus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TradelabTechnologiesIndia/tradelab-primus.git"
+  },
+  "author": "Tradelab <info@tradelab.in> (https://tradelab.in)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TradelabTechnologiesIndia/tradelab-primus/issues"
+  },
+  "homepage": "https://github.com/TradelabTechnologiesIndia/tradelab-primus#readme"
+}
