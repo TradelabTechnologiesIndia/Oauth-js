@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TradelabTechnologiesIndia/tradelab-primus/issues"
   },
-  "homepage": "https://github.com/TradelabTechnologiesIndia/tradelab-primus#readme"
+  "homepage": "https://github.com/TradelabTechnologiesIndia/tradelab-primus#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
 }
